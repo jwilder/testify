@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/stretchr/testify/assert"
-	"github.com/stretchr/testify/require"
+	"github.com/jwilder/testify/assert"
+	"github.com/jwilder/testify/require"
 )
 
 // SuiteRequireTwice is intended to test the usage of suite.Require in two

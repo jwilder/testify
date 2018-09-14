@@ -1,8 +1,9 @@
 package testify
 
 import (
-	"github.com/stretchr/testify/assert"
 	"testing"
+
+	"github.com/jwilder/testify/assert"
 )
 
 func TestImports(t *testing.T) {
